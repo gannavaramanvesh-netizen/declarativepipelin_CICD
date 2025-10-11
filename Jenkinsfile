@@ -2,7 +2,7 @@ node('built-in')
 {
     stage('continuous download') 
     {
-    git 'https://github.com/IntelliqDevops/maven.git'
+    git 'https://github.com/gannavaramanvesh-netizen/declarativepipelin_CICD.git'
 }
     stage('continuous build') 
     {
